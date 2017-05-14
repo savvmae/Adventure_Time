@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  font-family: Amatic SC;
+  font-weight: bold;
+  font-size: 100px;
+  color: #72040d;
+  float:left;
+  background-color: black;
+  width: 100%;
+}
+button {
+  width: 100%;
+  padding: 0px;
+  border: 0px;
+}
+body {
+  background-color: black;
+}
+button img {
+
+}
